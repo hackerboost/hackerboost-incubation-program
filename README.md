@@ -1,6 +1,5 @@
 # **HackerBoost Incubation Program – 4-Week Schedule**  
 **Duration:** 1 Month  
-**Teams:** 7 Projects  
 **Goal:** Build and refine MVPs, develop business strategies, and prepare for launch or funding.
 
 ---
