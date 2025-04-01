@@ -8,7 +8,7 @@
 | **Day**  | **Session** | **Activities & Deliverables** |
 |----------|------------|--------------------------------|
 | **Day 1** | Kickoff & Orientation | - Overview of the incubation program <br> - Team introductions & project briefs <br> - Setting clear **objectives & milestones** <br> - Creating a **Project Development Plan** |
-| **Day 2** | Product Discovery & Market Research | - Defining **problem statements & solutions** <br> - Conducting competitor & market analysis <br> - Validating product-market fit <br> - Teams refine their **project scope** |
+| **Day 2** | Product Discovery & Market Research | - Defining **problem statements & solutions** <br> - Conducting competitor & market analysis <br> - Validating product-market fit <br> - How Teams can refine their **project scope** |
 | **Day 3** | Technical Architecture & Development Plan | - **Workshop:** Smart contract & backend design <br> - Choosing the **tech stack & tools** <br> - Creating a **development roadmap** |
 | **Day 4** | Team Roles & Collaboration Strategies | - Defining **roles & responsibilities** <br> - Workflow & task management setup (Agile, Kanban) <br> - **Mentor Check-in:** Team structure review |
 | **Day 5** | Business & Monetization Strategy | - Exploring **revenue models & tokenomics** <br> - Grant opportunities & investor funding models <br> - **Activity:** Teams draft a **business strategy** |
